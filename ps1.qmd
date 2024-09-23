@@ -1,0 +1,18 @@
+---
+filters:
+   - include-code-files
+---
+# Problem Set 1
+
+## Mirror Images
+
+Write a program to draw the following picture. The radius of the largest circle is 100 pixels.
+
+![](https://anandology.github.io/isi-fcp/problem-sets/img/ps1-mirror-circles.svg)
+
+### Solution
+
+```{.c include="ps1/mirror-images.c"}
+```
+
+![](ps1/mirror-images.svg)
