@@ -16,3 +16,10 @@ Write a program to draw the following picture. The radius of the largest circle 
 ```
 
 ![](ps1/mirror-images.svg)
+
+
+## Row of Circles
+
+Write a program to draw the following picture. The radius of the each circle is 50 pixels.
+
+![](https://anandology.github.io/isi-fcp/problem-sets/img/ps1-row-of-circles.svg)
