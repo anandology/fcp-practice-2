@@ -4,27 +4,49 @@
     "href": "index.html",
     "title": "FCP Practice",
     "section": "",
-    "text": "Preface\nThis is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books."
+    "text": "Preface\nThis is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books.",
+    "crumbs": [
+      "Preface"
+    ]
   },
   {
     "objectID": "intro.html",
     "href": "intro.html",
     "title": "1  Introduction",
     "section": "",
-    "text": "This is a book created from markdown and executable code."
+    "text": "This is a book created from markdown and executable code.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+    ]
   },
   {
     "objectID": "summary.html",
     "href": "summary.html",
     "title": "2  Summary",
     "section": "",
-    "text": "In summary, this book has no content whatsoever."
+    "text": "In summary, this book has no content whatsoever.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Summary</span>"
+    ]
+  },
+  {
+    "objectID": "ps1.html",
+    "href": "ps1.html",
+    "title": "3  Problem Set 1",
+    "section": "",
+    "text": "3.1 Mirror Images\nWrite a program to draw the following picture. The radius of the largest circle is 100 pixels.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Problem Set 1</span>"
+    ]
   },
   {
     "objectID": "ps1.html#mirror-images",
     "href": "ps1.html#mirror-images",
     "title": "3  Problem Set 1",
-    "section": "3.1 Mirror Images",
-    "text": "3.1 Mirror Images\nWrite a program to draw the following picture. The radius of the largest circle is 100 pixels.\n\n\n3.1.1 Solution\n#include &lt;sketch.h&gt;\n\nint main()\n{\n    draw_circle(0, 0, 100);\n    save_sketch(\"mirror-images.svg\");\n}"
+    "section": "",
+    "text": "3.1.1 Solution\n#include &lt;sketch.h&gt;\n\nint main()\n{\n    draw_circle(0, 0, 100);\n    save_sketch(\"mirror-images.svg\");\n}",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Problem Set 1</span>"
+    ]
   }
 ]
